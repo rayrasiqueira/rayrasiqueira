@@ -2,8 +2,7 @@
 - 📓 Tecnologia em análise e desenvolvimento de sistemas 
 - 🌸 Fatec Garça 
 - 🐛 Estudando QA com o curso online "Tester Global" do Vinicius Pessoni 
-- 🎠 Estudando Programação Web no Origamid 
-- 🐍 Estudando Python na faculdade 
+- 🎠 Estudando Programação Web no Origamid
 - 🌎 Português, Inglês, Espanhol
 
 <div align="center">
