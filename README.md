@@ -1,9 +1,7 @@
 ## Olá, sou a <b>Rayra Siqueira</b>! 
-- 📓 Tecnologia em análise e desenvolvimento de sistemas 
-- 🌸 Fatec Garça 
-- 🐛 Estudando QA com o curso online "Tester Global" do Vinicius Pessoni 
+- 🎓 Tecnologia em análise e desenvolvimento de sistemas (Fatec Garça)
 - 🎠 Estudando Programação Web no Origamid
-- 🌎 Português, Inglês, Espanhol
+- 🌎 Português, Inglês, Espanhol, Francês
 
 <div align="center">
   <a href="https://github.com/rayrasiqueira">
